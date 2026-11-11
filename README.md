@@ -1,5 +1,4 @@
-# CERTIFICATE GENERATOR, by BKPSDM Kabupaten Dairi
-
+# CERTIFICATE GENERATOR, by MARE-ID
 Aplikasi web satu file (`index.html`) untuk membuat sertifikat dalam jumlah banyak: ambil data peserta dari Google Sheet atau CSV, atur desain dan penomoran, lalu unduh hasilnya sebagai PDF. Semua proses berjalan di peramban (browser) pengguna; tidak ada server dan tidak ada data peserta yang diunggah ke mana pun.
 
 **Alamat aplikasi** (setelah GitHub Pages diaktifkan): https://hsupreddi.github.io/sertigen/
@@ -91,4 +90,4 @@ Repository publik dapat dilihat siapa saja. Data peserta tidak disimpan di repos
 
 ## Pengembang
 
-BKPSDM Kabupaten Dairi.
+MARE-ID
